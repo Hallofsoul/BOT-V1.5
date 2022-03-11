@@ -20,7 +20,7 @@ global.APIKeys = {
 // Other
 global.owner = ['6282352239289','6285754058907','6282352239289']
 global.pemilik = ['6282352239289']
-global.premium = ['6285754058907','6282352239289]
+global.premium = ['6285754058907']
 global.pengguna = 'Wibuu'
 global.botnma = 'EWE-Botz'
 global.footer = 'EWE-Botz' //FooterText Biar Di Bawah Nya Ada Text 
