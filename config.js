@@ -18,20 +18,20 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285741857464','6283127014833','6281365814200']
-global.pemilik = ['6283127014833']
-global.premium = ['6281365814200']
-global.pengguna = 'Nama Lu Isi'
-global.botnma = 'Lycho Bot'
-global.footer = 'KahfzXzy' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/KahfzXzy' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/K4HFZ' //Ubah Jga Bebas Sama lu 
+global.owner = ['6282352239289','6285754058907','6282352239289']
+global.pemilik = ['6282352239289']
+global.premium = ['6285754058907','6282352239289]
+global.pengguna = 'Wibuu'
+global.botnma = 'EWE-Botz'
+global.footer = 'EWE-Botz' //FooterText Biar Di Bawah Nya Ada Text 
+global.web = 'https://youtube.com/c/Wiebu' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://github.com/Hallofsoul' //Ubah Jga Bebas Sama lu 
 global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
 global.ganti2 = 'Github'
-global.ownernma = 'KahfzXzy'
-global.packname = 'Lycho Bot'
+global.ownernma = 'Wibuu'
+global.packname = 'EWE-Botz'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.sessionName = 'season'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
